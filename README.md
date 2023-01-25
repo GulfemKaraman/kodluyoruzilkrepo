@@ -1,6 +1,6 @@
 
 # kodluyoruz İlk Repo
-Bu repo [Kodluyoruz] (https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet index.html, bir adet about-us.html ve bir adet contact.html dosyası barındırıyor. 
+Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet index.html, bir adet about-us.html ve bir adet contact.html dosyası barındırıyor. 
 
 ## Installation
 Öncelikle projeyi klonlayın. 
@@ -22,4 +22,4 @@ için bir konu açınız.
 ## License
 MIT
 
-![Proje görseli] (ilk-odev.png)
+![Proje görseli](ilk-odev.png)
