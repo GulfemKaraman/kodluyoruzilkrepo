@@ -23,3 +23,6 @@ için bir konu açınız.
 MIT
 
 ![Proje görseli](ilk-odev.png)
+
+## Patika.dev/Gulfem Karaman
+https://app.patika.dev/gulfemk
